@@ -1,4 +1,4 @@
 - 👋 oii, eu sou @theuus1
 - 👀 tenho interesse na área da TI
-- 🌱 estou aprendendo Java, HTML e CSS
+- 🌱 estou aprendendo JavaScript, HTML e CSS
 - 📫 você pode me encontrar por email mateeusteixeira2705@gmail.com
